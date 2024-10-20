@@ -1,0 +1,11 @@
+{
+  "name": "open-fetch-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "run": "node index.mjs"
+  },
+  "dependencies": {
+  }
+}
