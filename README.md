@@ -4,6 +4,8 @@ This Lambda function is designed to return the authenticated user's details as p
 It’s a simple yet powerful function that can be used to verify and retrieve the user’s identity after they’ve been
 authenticated.
 
+![Screenshot 2024-10-22 at 10.04.03 PM.png](screenshots/apigateway/Screenshot%202024-10-22%20at%2010.04.03%E2%80%AFPM.png)
+
 ## Key Highlights
 
 - **User Context Retrieval**:
@@ -34,8 +36,7 @@ By returning the user’s details in a simple and secure way, it allows applicat
 authenticated and authorized. This can be extended to various use cases such as personalized content, user profile
 management, and role-based access control.
 
-
-
+![Screenshot 2024-10-22 at 9.48.43 PM.png](screenshots/lambda/Screenshot%202024-10-22%20at%209.48.43%E2%80%AFPM.png)
 
 
 
