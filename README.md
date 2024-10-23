@@ -36,7 +36,14 @@ By returning the user’s details in a simple and secure way, it allows applicat
 authenticated and authorized. This can be extended to various use cases such as personalized content, user profile
 management, and role-based access control.
 
+### What's next ?
+
+Check the [main](https://github.com/longbowou/open-frontend) repository this one is part of.
+
+## Screenshot
+
 ![Screenshot 2024-10-22 at 9.48.43 PM.png](screenshots/lambda/Screenshot%202024-10-22%20at%209.48.43%E2%80%AFPM.png)
 
+## License
 
-
+This project is licensed under the [MIT License](LICENSE).
